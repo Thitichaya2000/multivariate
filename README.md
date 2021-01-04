@@ -8,6 +8,6 @@
 
 ( ) parentheses
 
-!.[S__1064964].(S__1064964.jpg)
+!.[book](book.jpg)
 
 อธิบายการใช้ Gidhup และ Google Colab ว่าหน้าที่ของแต่ละอันคืออะไร และอธิบายวิธีเซฟไฟล์จาก Google Colab ลงใน Gidhup
