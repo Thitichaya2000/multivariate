@@ -4,7 +4,7 @@
 
 .md => Markdown
 
-[_] square brackets
+[.] square brackets
 
 ( ) parentheses
 
